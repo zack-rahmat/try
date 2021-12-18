@@ -1,0 +1,22 @@
+Saya Abighail Shafira Ihsani mengerjakan evaluasi TP 1 dalam mata kuliah 
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya 
+tidak melakukan kecurangan seperti yang telah dispesifikan. Aamiin.
+
+Kesulitan :
+- menampilkan data secara dinamis dengan kodingan
+- membuat user control
+- menampilkan spesifikasi detail items pada form yang berbeda
+
+Hal yang dipelajari : 
+- Layouting menggunakan panel
+- Hyperlink pada button
+- Menampilkan data menggunakan user control
+
+Fitur yang sudah dikerjakan :
+- Login (verifikasi saat button login di klik)
+- Item List
+- Search berdasarkan kategori dan range harga
+- Hyperlink ke jendela browser ecommerce
+- Logout
+
+Cobain kolaborasi
